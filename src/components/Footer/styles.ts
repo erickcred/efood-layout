@@ -3,6 +3,7 @@ import { colors } from '../../styles'
 
 export const FooterConteiner = styled.footer`
   background-color: ${colors.pinkLight};
+  color: ${colors.pink};
   margin-top: 120px;
   padding: 40px 0;
 

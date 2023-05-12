@@ -5,6 +5,7 @@ import { colors } from '../../styles'
 export const HeaderContainer = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
+  color: ${colors.pink};
   height: 384px;
   padding: 50px 0 40px 0;
 
